@@ -2,5 +2,7 @@
 	"name": "Name",
 	"description": "Description",
 	"restart":false,
-	"color": [170, 0, 255]
+	"runsGlobally": false,
+	"color": [170, 0, 255],
+	"discordRPC": "863222024192262205"
 }
