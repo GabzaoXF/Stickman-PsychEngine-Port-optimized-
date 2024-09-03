@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-158,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Jack_idleMicsong3"
+		},
+		{
+			"offsets": [
+				-115,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Jack_up mad"
+		},
+		{
+			"offsets": [
+				-117,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Jack_down mad"
+		},
+		{
+			"offsets": [
+				-167,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Jack_right mad"
+		},
+		{
+			"offsets": [
+				-124,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Jack_left mad"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Jacksing3mad",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "jack",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		120,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

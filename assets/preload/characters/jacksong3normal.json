@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-185,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Jack_Right"
+		},
+		{
+			"offsets": [
+				-122,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Jack_Left"
+		},
+		{
+			"offsets": [
+				-116,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Jack_Down"
+		},
+		{
+			"offsets": [
+				-139,
+				59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Jack_Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-156,
+				26
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Jack_idleMicsong3",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Jacksing3normal",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "jack",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		50,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

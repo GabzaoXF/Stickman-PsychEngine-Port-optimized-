@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				605,
+				84
+			],
+			"anim": "done",
+			"fps": 24,
+			"name": "Jack_Song3end",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "donem",
+			"loop": false,
+			"name": "Jack_Song3end"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Jacksong3end",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "jack",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-870,
+		-280
+	],
+	"sing_duration": 4,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

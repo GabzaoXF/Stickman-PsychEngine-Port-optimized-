@@ -1,0 +1,58 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				28
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Jack_idle_mic",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-152,
+				29
+			],
+			"anim": "your bad lol",
+			"fps": 24,
+			"name": "Jack_youbad lol",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-71,
+				-22
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "OUCHIE",
+			"indices": [],
+			"name": "Jack_got Oraed"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/JackSong2",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "jack",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-50,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

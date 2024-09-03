@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				212,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "get mic",
+			"indices": [],
+			"name": "bf get mic"
+		},
+		{
+			"offsets": [
+				26,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "got mic att",
+			"indices": [],
+			"name": "bf got mic att"
+		},
+		{
+			"offsets": [
+				289,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "got mic copy",
+			"indices": [],
+			"name": "bf got mic copy"
+		},
+		{
+			"offsets": [
+				-35,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "got mic pre attack",
+			"indices": [],
+			"name": "bf got mic pre attack"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				57,
+				34
+			],
+			"anim": "atack",
+			"fps": 24,
+			"name": "BF idle dance revage",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-35,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "bf got mic pre attack"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/BFthrow",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		100,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

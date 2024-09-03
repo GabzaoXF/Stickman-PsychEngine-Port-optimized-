@@ -1,0 +1,105 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-556,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Jack_Right"
+		},
+		{
+			"offsets": [
+				-526,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Jack_Left"
+		},
+		{
+			"offsets": [
+				-541,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Jack_Down"
+		},
+		{
+			"offsets": [
+				-519,
+				65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Jack_Up"
+		},
+		{
+			"offsets": [
+				-509,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Jack_idile_200"
+		},
+		{
+			"offsets": [
+				851,
+				24
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "idle",
+			"indices": [
+				0,
+				1
+			],
+			"name": "Jack_BringBoom"
+		},
+		{
+			"offsets": [
+				851,
+				24
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "JackBringsBox",
+			"loop": false,
+			"name": "Jack_BringBoom"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/jackboom",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "jack",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-640,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

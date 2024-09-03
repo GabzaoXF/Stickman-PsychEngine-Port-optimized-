@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				21
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF wth idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				13
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT wth",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-29
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN wth",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				51
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP wth",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				17
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT wth",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				21
+			],
+			"anim": "watch",
+			"fps": 24,
+			"name": "BF watch",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				21
+			],
+			"anim": "wactch gf",
+			"fps": 24,
+			"name": "BF wactch gf",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				52
+			],
+			"anim": "idle speaker off",
+			"fps": 24,
+			"name": "BF idle  speaker off",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/BFabuse",
+	"position": [
+		10,
+		370
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		150,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

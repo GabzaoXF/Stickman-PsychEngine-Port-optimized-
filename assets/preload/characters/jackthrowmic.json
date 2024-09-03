@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-102,
+				-8
+			],
+			"anim": "throwmic",
+			"fps": 24,
+			"name": "Jack_throwmic1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-105,
+				11
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "ORAMIC",
+			"indices": [],
+			"name": "Jack_throwmic ora"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/JzSongtwoalt",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "jack",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		130,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,58 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dance but mad",
+			"indices": [],
+			"name": "GF Dancing Beat but mad0"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dance but mad2",
+			"indices": [],
+			"name": "GF Dancing Beat but mad 2"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-19
+			],
+			"anim": "SM VS GF",
+			"fps": 24,
+			"name": "Stickman vs GF",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/fighting",
+	"position": [
+		130,
+		130
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		97
+	],
+	"camera_position": [
+		-240,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 2,
+	"_editor_isPlayer": false
+}
